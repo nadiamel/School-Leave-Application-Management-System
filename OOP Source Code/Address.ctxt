@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=staff_street\ staff_city\ staff_state
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=staff_street\ staff_city\ staff_state
+comment2.target=void\ setAddress(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+numComments=4

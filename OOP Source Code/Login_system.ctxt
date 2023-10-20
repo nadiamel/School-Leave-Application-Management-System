@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Login_system
+comment1.params=
+comment1.target=Login_system()
+comment2.params=username\ password
+comment2.target=boolean\ staffLogin(java.lang.String,\ java.lang.String)
+comment3.params=username\ password
+comment3.target=boolean\ adminLogin(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=Staff\ getStaffAccount()
+comment5.params=
+comment5.target=Admin\ getAdminAccount()
+comment6.params=staff
+comment6.target=void\ addStaff(Staff)
+comment7.params=admin
+comment7.target=void\ addAdmin(Admin)
+comment8.params=username
+comment8.target=Admin\ getAdminByUsername(java.lang.String)
+comment9.params=admin
+comment9.target=void\ setAdminAccount(Admin)
+numComments=10
